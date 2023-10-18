@@ -1,2 +1,2 @@
 一个外卖平台的小程序ui
-![example.jpg](https://github.com/gods-fall/uniLearn/blob/master/example.jpg =100x100)
+![example.jpg -w70](https://github.com/gods-fall/uniLearn/blob/master/example.jpg )
